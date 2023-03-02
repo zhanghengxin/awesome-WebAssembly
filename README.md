@@ -9,6 +9,6 @@ Record all the interesting projects of WebAssembly Ecology.
 
 ## Tool
 
-[assemblyscript](https://www.assemblyscript.org/)
-[emscripten](https://emscripten.org/)
-[binaryen](https://github.com/WebAssembly/binaryen)
+- [assemblyscript](https://www.assemblyscript.org/)
+- [emscripten](https://emscripten.org/)
+- [binaryen](https://github.com/WebAssembly/binaryen)
